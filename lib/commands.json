@@ -60,5 +60,14 @@
     "hasPreview": true,
     "langParam": "lang",
     "methods": ["GET", "PUT"]
+  },
+  "app/actions.json": {
+    "appParam": "app",
+    "hasPreview": true,
+    "langParam": "lang",
+    "methods": [
+      "GET",
+      "PUT"
+    ]
   }
 }
